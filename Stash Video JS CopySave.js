@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Stash Video JS CopySave Screenshot
-// @namespace   https://github.com/elkorol/Stash-User-scripts
+// @namespace   https://github.com/elkorol/Stash-App-Script-Video-JS-CopySave
 // @description Adds copy current scene screenshot to clipboard or save to disk
 // @version     0.1.0
 // @author      Echoman
