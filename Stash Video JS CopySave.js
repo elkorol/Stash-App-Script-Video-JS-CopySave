@@ -10,7 +10,7 @@
 // @grant       GM_setClipboard
 // @grant       GM_download
 // @include     *
-// @require     https://raw.githubusercontent.com/elkorol/Stash-User-scripts/develop/src\StashUserscriptLibrary.js
+// @require     https://raw.githubusercontent.com/7dJx1qP/stash-userscripts/master/src\StashUserscriptLibrary.js
 // @run-at      document-idle
 // ==/UserScript==
 
